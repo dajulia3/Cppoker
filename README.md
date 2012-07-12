@@ -17,3 +17,5 @@ betting becomes pointless.
 
 Seven Card stud: the ranking doesn't work yet. To be fixed if I ever decide to put myself
 through the pain of C++ in the near future.
+
+Note: this project used to be under svn version control, but rather than use git-svn to pull the whole commit history I just decided to copy the files over-- mostly because given that it was written in C++ I assume that their might be a bit of profanity in my commit messages- they were only for my eyes ;).
